@@ -83,7 +83,7 @@
         "rewards_emoji_set_title": "Emoji(s) have been set",
         "rewards_emoji_set_description": "**You have set the emojis**: {{ .rewards_emoji_set }}\n **To Role**: {{ .rewards_emoji_set_role }}",
         "rewards_emoji_set_footer": "Levely Official Bot • {{ .date }}",
-        "rewards_emoji_remove_title": "Emoji(s) Removedt",
+        "rewards_emoji_remove_title": "Emoji(s) Removed",
         "rewards_emoji_remove_description": "**You have removed the emojis**: {{ .rewards_emoji_removed }}\n **From Role**: {{ .rewards_emoji_removed_role }}",
         "rewards_emoji_remove_footer": "Levely Official Bot • {{ .date }}",
         "error_max_difficulty_find": "(error_max_difficulty_find) Encountered error whilst fetching max default difficulty.",
