@@ -81,7 +81,7 @@
         "rewards_emoji_clear_description": "You have cleared all set restrictions for {{ .rewards_emoji_clear_role }}.\n\nSetup new restrictions with `/rewards emoji set [@RoleExample] [:Emoji:]`.\nDo not include [] in the command executed.",
         "rewards_emoji_clear_footer": "Levely Official Bot • {{ .date }}",
         "rewards_emoji_remove_title": "Emoji(s) Restriction Removed",
-        "rewards_emoji_remove_description": "**Emoji**: {{ .rewards_emoji_removed }} **removed from** {{ .rewards_emoji_removed_role }}.\n\nSetup new restrictions with `/rewards emoji set [@RoleExample] [:Emoji:].\nDo not include [] in the command executed.",
+        "rewards_emoji_remove_description": "**Emoji**: {{ .rewards_emoji_removed }} **removed from** {{ .rewards_emoji_removed_role }}.\n\nSetup new restrictions with `/rewards emoji set [@RoleExample] [:Emoji:]`.\nDo not include [] in the command executed.",
         "rewards_emoji_remove_footer": "Levely Official Bot • {{ .date }}",
         "rewards_emoji_not_specified_title": "Emoji not specified",
         "rewards_emoji_not_specified_description": "You have not specified a restricted emoji please select a minimum 1.",
