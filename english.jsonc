@@ -114,8 +114,8 @@
         "error_difficulty_find": "(error_difficulty_find) Encountered error whilst fetching difficulty setting.",
         "error_language_not_supported": "(error_language_not_supported) Encountered error whilst searching for provided language.",
         "error_invite_find": "(error_invite_find) Encountered error whilst fetching invite link",
-        "error_support_find": "(error_support_find) Encountered error whilst fetching support server url"
-        "error_fetch_member_info": "(error_fetch_member_info) Encountered error whilst fetching guild member info from the database."
-        "error_fetch_calculating_xp": "(error_fetch_calculating_xp) Encountered error whilst fetching xp calculations for next level."
+        "error_support_find": "(error_support_find) Encountered error whilst fetching support server url",
+        "error_fetch_member_info": "(error_fetch_member_info) Encountered error whilst fetching guild member info from the database.",
+        "error_fetch_calculating_xp": "(error_fetch_calculating_xp) Encountered error whilst fetching xp calculations for next level.",
     }
 }
