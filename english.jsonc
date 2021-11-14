@@ -48,7 +48,7 @@
         "levelup_description": "{{ .levelup_user_mention }} has leveled up to level {{ .levelup_level }}",
         "levelup_footer": "Levely Official Bot • {{ .date }}",
         "profile_title": "Profile",
-        "profile_description": "> **Rank**: `{{ .profile_level }}`\n> **Level**: `{{ .profile_level }}`\n> **XP**: `{{ .profile_xp }}`\n > **Progress**: `{{ .profile_progress_amount }}`\n> **Messages Amount**: `{{ .profile_message_total }}`\n> **Voice Minutes**: `{{ .profile_voice_minutes }}`\n> **Overall XP**: `{{ .profile_overall_xp }}`\n> **Overall Voice XP**: `{{ .profile_overall_voice_xp }}`\n\n**Date Joined**: `{{ .profile_date_joined }}`\n",
+        "profile_description": "> **Rank**: `{{ .profile_rank }}`\n> **Level**: `{{ .profile_level }}`\n> **XP**: `{{ .profile_xp }}`\n > **Progress**: `{{ .profile_progress_amount }}`\n> **Messages Amount**: `{{ .profile_message_total }}`\n> **Voice Minutes**: `{{ .profile_voice_minutes }}`\n> **Overall XP**: `{{ .profile_overall_xp }}`\n> **Overall Voice XP**: `{{ .profile_overall_voice_xp }}`\n\n**Date Joined**: `{{ .profile_date_joined }}`\n",
         "profile_footer": "Levely Official Bot • {{ .date }}",
         "leaderboard_title": "Leaderboard ({{ .leaderboard_duration }})",
         "leaderboard_description": "**#1**: {{ .leaderboard_user_mention_1 }} **Level**: {{ .leaderboard_user_level_1 }}\n**#2**: {{ .leaderboard_user_mention_2 }} **Level**: {{ .leaderboard_user_level_2 }}\n**#3**: {{ .leaderboard_user_mention_3 }} **Level**: {{ .leaderboard_user_level_3 }}\n",
