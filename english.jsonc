@@ -595,6 +595,14 @@
       "fields": []
     }
   },
+  "placeholders": {
+    "leaderboard": {
+      "daily": "Daily",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "overall": "Overall"
+    }
+  },
   "messages": {},
   "error_messages": {
     "error_invalid_command": "(error_invalid_command) The command you executed seems to not exist.",
