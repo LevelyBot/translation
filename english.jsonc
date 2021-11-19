@@ -15,6 +15,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "invite": {
@@ -28,6 +29,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "wiki": {
@@ -41,6 +43,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "dashboard": {
@@ -54,6 +57,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "support": {
@@ -67,6 +71,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "premium": {
@@ -80,6 +85,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "application": {
@@ -93,6 +99,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "team": {
@@ -106,6 +113,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "join": {
@@ -119,6 +127,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "channelinfo": {
@@ -132,6 +141,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "serverinfo": {
@@ -145,6 +155,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "language": {
@@ -159,6 +170,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "language_reset": {
@@ -172,6 +184,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "opt": {
@@ -185,6 +198,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "upvote": {
@@ -198,6 +212,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "levelup": {
@@ -211,6 +226,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "profile": {
@@ -224,6 +240,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "leaderboard": {
@@ -237,6 +254,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "difficulty": {
@@ -250,6 +268,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "difficulty_max": {
@@ -263,6 +282,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "difficulty_duplicate": {
@@ -276,6 +296,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
 
@@ -290,6 +311,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "premium_required": {
@@ -303,6 +325,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_nicknameformat_not_specified": {
@@ -316,6 +339,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_leaderboard_rank_not_specified": {
@@ -329,6 +353,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_emoji_set": {
@@ -342,6 +367,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_emoji_clear": {
@@ -355,6 +381,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_emoji_remove": {
@@ -368,6 +395,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_emoji_not_specified": {
@@ -381,6 +409,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_set": {
@@ -394,6 +423,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_clear": {
@@ -407,6 +437,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_remove": {
@@ -420,6 +451,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_not_specified": {
@@ -433,6 +465,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_doesnt_exist": {
@@ -446,6 +479,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_override": {
@@ -459,6 +493,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_override_confirmed": {
@@ -472,6 +507,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "rewards_role_canceled": {
@@ -485,6 +521,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "manage_give": {
@@ -498,6 +535,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "manage_remove": {
@@ -511,6 +549,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "manage_set": {
@@ -524,6 +563,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "manage_reset": {
@@ -537,6 +577,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     },
     "manage_reset_confirm": {
@@ -550,6 +591,7 @@
       "url": "",
       "image_url": "",
       "thumbnail_url": "{{ .levely_icon }}",
+      "embed_color": "00EEA4",
       "fields": []
     }
   },
