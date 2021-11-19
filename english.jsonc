@@ -30,6 +30,32 @@
       "thumbnail_url": "{{ .levely_icon }}",
       "fields": []
     },
+    "wiki": {
+      "title": "Levely Wiki",
+      "description": "Having problems figuring out how to setup a feature? [Use the wiki]({{ .wiki_url }}).",
+      "footer_text": "Levely Official Bot • {{ .date }}",
+      "footer_image_url": "{{ .levely_icon }}",
+      "author_name": "{{ .author_name }}",
+      "author_url": "",
+      "author_icon_url": "{{ .author_icon }}",
+      "url": "",
+      "image_url": "",
+      "thumbnail_url": "{{ .levely_icon }}",
+      "fields": []
+    },
+    "dashboard": {
+      "title": "Levely Dashboard",
+      "description": "[Edit Levely via our web dashboard quick and easy manage the bots configurations]({{ .dashboard_url }}).",
+      "footer_text": "Levely Official Bot • {{ .date }}",
+      "footer_image_url": "{{ .levely_icon }}",
+      "author_name": "{{ .author_name }}",
+      "author_url": "",
+      "author_icon_url": "{{ .author_icon }}",
+      "url": "",
+      "image_url": "",
+      "thumbnail_url": "{{ .levely_icon }}",
+      "fields": []
+    },
     "support": {
       "title": "Levely Support Server",
       "description": "Having problems with Levely?\nJoin our discord support server for assistance. [[Support]]({{ .support_url }})!",
