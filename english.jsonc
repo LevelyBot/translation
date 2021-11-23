@@ -607,7 +607,7 @@
   "error_messages": {
     "error_building_embed": "(error_build_embed) Encountered error whilst building embed.",
     "error_fetch_member_info": "(error_fetch_member_info) Encountered error whilst fetching guild member info from the database.",
-    "error_fetch_calculating_xp": "(error_fetch_calculating_xp) Encountered error whilst fetching xp calculations for next level."
+    "error_fetch_calculating_xp": "(error_fetch_calculating_xp) Encountered error whilst fetching xp calculations for next level.",
     "error_max_difficulty_find": "(error_max_difficulty_find) Encountered error whilst fetching max default difficulty.",
     "error_premium_url_find": "(error_premium_url_find) Encountered error whilst fetching premium url.",
     "error_languages_list": "(error_languages_list) Encountered error whilst fetching list of support languages.",
@@ -615,6 +615,6 @@
     "error_difficulty_find": "(error_difficulty_find) Encountered error whilst fetching difficulty setting.",
     "error_language_not_supported": "(error_language_not_supported) Encountered error whilst searching for provided language.",
     "error_invite_find": "(error_invite_find) Encountered error whilst fetching invite link",
-    "error_support_find": "(error_support_find) Encountered error whilst fetching support server url",
+    "error_support_find": "(error_support_find) Encountered error whilst fetching support server url"
   }
 }
