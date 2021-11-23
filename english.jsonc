@@ -605,7 +605,6 @@
   },
   "messages": {},
   "error_messages": {
-    "error_invalid_command": "(error_invalid_command) The command you executed seems to not exist.",
     "error_max_difficulty_find": "(error_max_difficulty_find) Encountered error whilst fetching max default difficulty.",
     "error_premium_url_find": "(error_premium_url_find) Encountered error whilst fetching premium url.",
     "error_languages_list": "(error_languages_list) Encountered error whilst fetching list of support languages.",
