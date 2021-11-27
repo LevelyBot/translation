@@ -75,8 +75,8 @@
       "fields": []
     },
     "premium": {
-      "premium_title": "Get Premium",
-      "premium_description": "Purchase premium to benefit yourself or your discord server.\nQuickly unlock additional Levely features within seconds.\n\n[Interested?]({{ .premium_url }})\n[Want to preview premium perks?]({{ .premiumperks_url }})",
+      "title": "Get Premium",
+      "description": "Purchase premium to benefit yourself or your discord server.\nQuickly unlock additional Levely features within seconds.\n\n[Interested?]({{ .premium_url }})\n[Want to preview premium perks?]({{ .premiumperks_url }})",
       "footer_text": "Levely Official Bot • {{ .date }}",
       "footer_image_url": "{{ .levely_icon }}",
       "author_name": "{{ .author_name }}",
