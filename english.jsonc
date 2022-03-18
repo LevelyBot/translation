@@ -231,8 +231,8 @@
     },
     "profile": {
       "title": "Profile",
-      "profile_description": "> **Rank**: `{{ .target_rank }}`\n> **Level**: `{{ .target_level }}`\n> **XP**: `{{ .target_xp }}`\n > **Progress**: `{{ .target_xp }}/{{ .target_xp_levelup_required }}`\n> **Messages Amount**: `{{ .target_message_total }}`\n> **Voice Minutes**: `{{ .target_voice_minutes }}`\n> **Voice XP**: `{{ .target_overall_voice_xp }}`\n\n**Date Joined**: `{{ .target_date_joined }}`\n",
-      "profile_footer": "Levely Official Bot • {{ .date }}",
+      "description": "> **Rank**: `{{ .target_rank }}`\n> **Level**: `{{ .target_level }}`\n> **XP**: `{{ .target_xp }}`\n > **Progress**: `{{ .target_xp }}/{{ .target_xp_levelup_required }}`\n> **Messages Amount**: `{{ .target_message_total }}`\n> **Voice Minutes**: `{{ .target_voice_minutes }}`\n> **Voice XP**: `{{ .target_overall_voice_xp }}`\n\n**Date Joined**: `{{ .target_date_joined }}`\n",
+      "footer_text": "Levely Official Bot • {{ .date }}",
       "footer_image_url": "{{ .levely_icon }}",
       "author_name": "{{ .author_name }}",
       "author_url": "",
